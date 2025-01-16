@@ -63,6 +63,7 @@ The project uses the FER2013 dataset, an open-source dataset containing grayscal
 -> Sad
 
 -> Surprise
+
 -> Neutral
 
 The dataset was created for an ongoing project by Pierre-Luc Carrier and Aaron Courville and shared publicly for a Kaggle competition.
